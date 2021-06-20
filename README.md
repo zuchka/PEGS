@@ -17,7 +17,7 @@ mount c: ~/path/to/PEGS
 * You will see a prompt informing you that the local directory is now mounted as drive `C:`
 
 ```bash
-Drive C is mounted as local directory ~/path.to/PEGS
+Drive C is mounted as local directory ~/path/to/PEGS
 ```
 
 * change into `C:`:
